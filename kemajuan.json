@@ -1,0 +1,51 @@
+{
+ "_nota": "Kedudukan SP terakhir setiap kelas. Dikemas kini automatik oleh jana_rph_mingguan.py.",
+ "3USM": {
+  "mula": 114,
+  "saiz": 3,
+  "langkah": "sambung3",
+  "ulangkaji": true,
+  "rph_terakhir": "2026-10-22",
+  "sp_terakhir": [
+   "5.8.2",
+   "5.8.3",
+   "5.8.4"
+  ]
+ },
+ "5UKM": {
+  "mula": 93,
+  "saiz": 3,
+  "langkah": "sambung3",
+  "ulangkaji": true,
+  "rph_terakhir": "2026-10-28",
+  "sp_terakhir": [
+   "4.24.5",
+   "5.10.1",
+   "5.10.2"
+  ]
+ },
+ "3UTM": {
+  "mula": 103,
+  "saiz": 3,
+  "langkah": "sambung3",
+  "ulangkaji": true,
+  "rph_terakhir": "2026-10-22",
+  "sp_terakhir": [
+   "4.18.1",
+   "4.18.2",
+   "4.18.3"
+  ]
+ },
+ "5USM": {
+  "mula": 93,
+  "saiz": 3,
+  "langkah": "sambung3",
+  "ulangkaji": true,
+  "rph_terakhir": "2026-10-29",
+  "sp_terakhir": [
+   "4.24.5",
+   "5.10.1",
+   "5.10.2"
+  ]
+ }
+}
